@@ -1,0 +1,160 @@
+/*CSS file*/
+
+input{
+    width: 430px;
+	margin: 0 auto;
+    padding: 10px;
+    border: 1px solid 	#000000;
+}
+
+#main-wrapper{
+	border-radius : 5px;
+	background-color: #ccc;
+	border: 3px solid #f1f1f1;
+	width: 500px;
+	margin: 0 auto;
+}
+.inner_container{
+	width:450px;
+	margin:0 auto;
+}
+.login_button {
+    background-color: #3c8dbc;
+    color: black;
+	margin-top:10px;
+    padding:10px;
+    width: 35%;
+	font-size:18px;
+	font-weight: bold;
+	border: 0px;
+	float: left;
+}
+
+.register_link
+{
+	font-size:16px;
+	font-weight: bold;
+	padding: 10px;
+	color: #4169E1;
+	cursor: auto;
+	text-decoration: underline;
+}
+
+.register_div{
+	font-size:16px;
+	font-weight: bold;
+	padding: 10px;
+
+}
+
+.register_btn{
+	background-color: #000000;
+    color: black;
+	margin-top:10px;
+	margin-bottom:15px;
+	padding:10px;
+    width: 38%;
+	font-size:16px;
+	font-weight: bold;
+	border:0px;
+	float: right;
+	
+}
+.back_btn{
+	margin-top:10px;
+	color: black;
+	margin-bottom:15px;
+    padding: 10px;
+    background-color: #e67e22;
+}
+.logout_button{
+	background-color: #c0392b;
+    color: black;
+	margin-top:10px;
+    padding:10px;
+    width: 100%;
+	font-size:18px;
+	font-weight: bold;
+}
+
+.sign_up_btn {
+	background-color: #3498db;
+    color: black;
+	 padding:10px;
+	margin-top:10px;
+	margin-bottom:10px;
+    width: 100%;
+	font-size:16px;
+	font-weight: bold;
+}
+
+.imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+}
+
+
+.container {
+    margin: 16px;
+	width:100%;
+}
+
+.btngrp{
+	width: 100%;
+	display: inline-block;
+}
+
+.formgroup{
+		width: 100%;
+	display: inline-block;
+}
+
+.lable-side{
+width: 30%;
+float: left;
+}
+
+.text-side{
+width: 50%;
+float: right;
+padding:10px;
+}
+
+.reset_btn{
+	background-color: #000000;
+    color: white;
+	margin-top:30px;
+	margin-bottom:30px;
+	padding:10px;
+    width: 55%;
+	font-size:18px;
+	font-weight: bold;
+	border:0px;
+	float: right;
+}
+
+
+.change_password{
+	margin-top:10px;
+	margin-bottom:10px;
+	padding:10px;
+    width: 3ss5%;
+	font-size:18px;
+	font-weight: bold;
+	border:0px;
+	float: right;
+	text-decoration:underline;
+}
+
+.cancel_link
+{
+	margin-top:10px;
+	margin-bottom:10px;
+	padding:10px;
+    width: 45%;
+	font-size:18px;
+	font-weight: bold;
+	border:0px;
+	float: right;
+	text-decoration:underline;
+}
